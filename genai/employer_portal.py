@@ -2,7 +2,9 @@ import streamlit as st
 import json
 import os
 from PIL import Image 
-# Initialize session state for language and filters
+
+# amogus
+
 if 'language' not in st.session_state:
     st.session_state.language = 'en'
 
